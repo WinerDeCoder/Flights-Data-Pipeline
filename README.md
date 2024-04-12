@@ -1,7 +1,7 @@
 # Realtime Streaming Flights-Data-Pipeline ( With AWS )
 A project in Big Data Analysis and Business Intelligence course in HCMUT.
 
-![AWS]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2Famazonwebservices%2Fvideos&psig=AOvVaw11d48msgYWLKx62MNkxFha&ust=1713013340732000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiV3Y7evIUDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJIbIYCM48to&psig=AOvVaw11d48msgYWLKx62MNkxFha&ust=1713013340732000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiV3Y7evIUDFQAAAAAdAAAAABAq))
+![AWS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJIbIYCM48to&psig=AOvVaw11d48msgYWLKx62MNkxFha&ust=1713013340732000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiV3Y7evIUDFQAAAAAdAAAAABAq)
 
 ## Reference
 * My work inspired by this [REPO]([https://github.com/XSiddhSaraf/Covid-19-Data-Pipeline-Based-On-Messaging-and-Analysis)
